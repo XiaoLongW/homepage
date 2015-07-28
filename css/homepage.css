@@ -1,0 +1,30 @@
+*{margin: 0;padding: 0;}
+body{color: #FFFFFF;background: #484848;}
+#div-title{position:absolute;left:425px;top:25px;font-size: 60px;  }
+#div-day {position: absolute;width: 315px;height: 70px; right:-315px;top:70px;font-size: 50px;background:#484848;}
+#div-time{position: absolute;width: 205px;height: 70px; left:50px;top:0px;font-size: 50px;}
+#div-weather{position: absolute;width: 420px;height: 50px; right:-420px;top:0px;font-size: 50px;background:#CCCCCC;}
+
+#div-study{width: 260px;height: 100px;background: black;position: absolute;left: -260px;top: 456px;}
+#div-study span{width: 30px;height: 200px;line-height: 20px;text-align: center;left: 100px;top:0;background:#868687 ;position: absolute;font-size: 30px}
+#div-study2{width: 260px;height: 60px;background:black;position: absolute;left: -260px;top: 556px;}
+/*#div-study2 span{width: 30px;height: 200px;line-height: 20px;text-align: center;left: 100px;top:0;background:#868687 ;position: absolute;font-size: 30px}*/
+
+#div-ccc{width:100px;height: 416px;background: #484848;position: absolute;top: -416px;left: 0;}
+#div-aaa{width:100px;height: 416px;background: #484848;position: absolute;top: -416px;left: 100px;}
+#div-bbb{width:100px;height: 416px;background: #484848;position: absolute;top: -416px;left: 200px;}
+#div-bbb pre{position: absolute;width: 100px;color: #CCCCCC;left: 0;background: black}
+#div-aaa pre{position: absolute;width: 100px;color: #CCCCCC;left: 0;background: black}
+#div-ccc pre{position: absolute;width: 100px;color: #CCCCCC;left: 0;background: black}
+
+
+#img-j{position:absolute;width:70px;height: 70px;left: 0;top: 0}
+#img-u{position:absolute;width:70px;height: 70px;left: 70px;top: 0}
+#img-s{position:absolute;width:70px;height: 70px;left: 140px;top:0}
+#img-t{position:absolute;width:70px;height: 70px;left: 210px;top:0}
+#img-d{position:absolute;width:70px;height: 70px;left: 350px;top:0}
+#img-o{position:absolute;width:70px;height: 70px;left: 420px;top:0}
+#img-i{position:absolute;width:70px;height: 70px;left: 560px;top:0}
+#img-tt{position:absolute;width:70px;height: 70px;left: 630px;top: 0}
+
+
